@@ -34,13 +34,18 @@ Tableau - for Visualization/analyzing
 
 * all figures can be seen in the tableau file
 
-In what situations do you think each measure is more  relevant?
+
+1. What is the mean and median number of days to close (the  difference in days between “CREATED_DATE” and  
+“CLOSE_DATE”)? 
+- the mean = 99.41 and the median = 48 with a delta of 51.41.
+
+a. In what situations do you think each measure is more  relevant?
 - The mean is better used when there are little to no outliers that can skew the data.
 - The median is better used when there are outliers in the data which may be the case here.
 see figure 1a.
+
  b. Do they meaningfully differ overall?
-- In this case they do differ meaningfully overall. With the mean double the median. This tells me that there are a few data points in which the days to close
-were extremely long. see figure 1b.
+- In this case they do differ meaningfully overall. With the mean double the median. This tells me that there are a few data points in which the days to close were extremely long. see figure 1b.
 
  c. Do they differ by Outcome?
 - The mean and median do differ by outcome. Sales that were Won had a mean = 114 and median = 37 with a delta of 77
