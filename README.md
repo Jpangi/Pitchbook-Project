@@ -55,6 +55,8 @@ see figure 1d.
 - The trend of differing means vs median continued when looking at primary type. All of the values had significant deltas.
 see figure 1e.
 
+
+
 2. What is the mean and median duration of Opportunities in the Evaluation stage?
 - For the evaluation duration the mean = 100.7 and the median = 65 with a delta of 35.7 see figure 2a.
 
