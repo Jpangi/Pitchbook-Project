@@ -76,7 +76,10 @@ see figure 2c.
 
 
 3. From your answers to the questions above, what additional insights  do you have about our business?
-- 
+-  Some additional insights that I found were that the conversion rate for opportunities was about 7%
+-  I found that there were multiple opportunites that spanned a thousand plus days. This could be the reason many of the means were so high compared to 
+ the median.
+- The office with the highest days to close was Hong Kong and the lowest was the marketing office. both of these had means and medians close to one another. As you get towards the middle however the means and medians start to increase in delta size.
 
 
 
