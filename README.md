@@ -24,7 +24,7 @@ system. My Goal is to clean, analyze and visualize the three csv files in order 
 
 Assumptions:
 - If there was no Evaluation date I excluded it from the data since technically it had never started the evaluation stage. 
-- If there was no date in the next stage (procurement/negotiation) or (Verbal/pending)I used the Closed date as the date to subtract
+- If there was no date in the next stage (procurement/negotiation) or (Verbal/pending) I used the Closed date as the date to subtract
 
 
 Tools Used:
@@ -38,7 +38,7 @@ Tableau: for Visualization/analyzing
 1. What is the mean and median number of days to close (the  difference in days between “CREATED_DATE” and  
 “CLOSE_DATE”)? 
 - the mean = 99.41 and the median = 48 with a delta of 51.41.
-see figure 1a.
+See figure 1a.
 
 
 a. In what situations do you think each measure is more  relevant?
@@ -50,17 +50,17 @@ a. In what situations do you think each measure is more  relevant?
 - In this case they do differ meaningfully overall. With the mean double the median. This tells me that there are a few data points in which the days to close were extremely long. 
 
  c. Do they differ by Outcome?
-- The mean and median do differ by outcome. Sales that were Won had a mean = 114 and median = 37 with a delta of 77
+- The mean and median do differ by outcome. Sales that were won had a mean = 114 and median = 37 with a delta of 77
 while sales that were lost had a mean = 98.19 and a median = 48 with a delta of 50.19. This could be because sales that were won  had to have more work
-and were harder to earn. ssee figure 1b.
+and were harder to earn. See figure 1b.
 
  d. Do they differ by Office?
 - There was a significant difference in the mean and median in most offices except for San Fransisco and Hong Kong which lined up exaclty or almost exactly.
-see figure 1c.
+See figure 1c.
 
  e. Do they differ by Primary Type?
 - The trend of differing means vs median continued when looking at primary type. All of the values had significant deltas.
-see figure 1d.
+See figure 1d.
 
 
 
@@ -72,7 +72,7 @@ see figure 1d.
 
  b. Does the duration of an Opportunity in the Evaluation stage  correlate with a given Outcome?
 - There does seem to be a correlation in the Evaluation stage. sales that were won had a much lower mean and median duration then those that were lost.
-see figure 2c.
+See figure 2c.
 
 
 3. From your answers to the questions above, what additional insights  do you have about our business?
